@@ -1,0 +1,10 @@
+[{
+	'title': 'My chain',
+	'links': [{
+		'text': 'About',
+		'url': 'https://example.com/about'
+	}, {
+		'text': 'Contacts',
+		'url': 'https://example.com/contacts'
+	}]
+}]
