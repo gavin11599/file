@@ -4,11 +4,11 @@
     "links": [
       {
         "text": "Homepage",
-        "url": "https://www.blockscout.com"
+        "url": "https://iost.io/"
       },
       {
         "text": "Contacts",
-        "url": "https://iost.io/"
+        "url": "https://linktr.ee/IOSTOfficial"
       }
     ]
   },
@@ -16,12 +16,12 @@
     "title": "Community",
     "links": [
       {
-        "text": "Twitter",
-        "url": "https://twitter.com/iost_official"
+        "text": "X",
+        "url": "https://x.com/IOST_Official"
       },
       {
         "text": "Telegram",
-        "url": "https://t.me/iost_official"
+        "url": "https://t.me/officialios"
       }
     ]
   }
