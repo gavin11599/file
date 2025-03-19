@@ -1,10 +1,10 @@
 [{
-	'title': 'My chain',
+	'title': 'IOST',
 	'links': [{
-		'text': 'About',
-		'url': 'https://example.com/about'
+		'text': 'Homepage',
+		'url': 'https://www.blockscout.com'
 	}, {
 		'text': 'Contacts',
-		'url': 'https://example.com/contacts'
+		'url': 'https://iost.io/'
 	}]
 }]
