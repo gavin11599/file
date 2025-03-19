@@ -1,12 +1,28 @@
-[{
-	"title": "IOST",
-	"links": [{
-			"text": "Homepage",
-			"url": "https://www.blockscout.com"
-		},
-		{
-			"text": "Contacts",
-			"url": "https://iost.io/"
-		}
-	]
-}]
+[
+  {
+    "title": "IOST",
+    "links": [
+      {
+        "text": "Homepage",
+        "url": "https://www.blockscout.com"
+      },
+      {
+        "text": "Contacts",
+        "url": "https://iost.io/"
+      }
+    ]
+  },
+  {
+    "title": "Community",
+    "links": [
+      {
+        "text": "Twitter",
+        "url": "https://twitter.com/iost_official"
+      },
+      {
+        "text": "Telegram",
+        "url": "https://t.me/iost_official"
+      }
+    ]
+  }
+]
