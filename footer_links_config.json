@@ -22,6 +22,18 @@
       {
         "text": "Telegram",
         "url": "https://t.me/officialios"
+      },
+      {
+        "text": "Facebook",
+        "url": "https://www.facebook.com/IOSTOfficial/"
+      },
+      {
+        "text": "Linkedin",
+        "url": "https://www.linkedin.com/company/iostproject/posts/?feedView=all"
+      },
+      {
+        "text": "Medium",
+        "url": "https://medium.com/iost"
       }
     ]
   }
